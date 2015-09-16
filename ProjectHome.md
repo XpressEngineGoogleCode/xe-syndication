@@ -1,0 +1,1 @@
+XE Syndication is a syndication module for XpressEngine.
